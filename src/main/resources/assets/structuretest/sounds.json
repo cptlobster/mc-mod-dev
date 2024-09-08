@@ -1,0 +1,13 @@
+{
+  "metal_pipe": {
+    "sounds": [
+      {
+        "name": "structuretest:metal_pipe",
+        "type": "sound",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  }
+}
